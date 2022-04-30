@@ -1,2 +1,8 @@
 # Cartofka
-Car car fos fos yu yu sarton
+*Car car fos fos yu yu sarton*
+Планирование
+Создание кода
+Тестирование
+Демонстрация проекта заказчику
+Успешная продажа
+Все довольны
